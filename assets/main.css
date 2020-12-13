@@ -1,0 +1,20 @@
+.dash-spreadsheet .row {
+  margin-left: 0px;
+  margin-right: 0px;
+  }
+
+
+.DateInput_input, .DateInput_input_1 {
+  Height: 30px;
+}
+
+.Select--single>.Select-control .Select-value, .Select-placeholder
+{
+    Height: 30px;
+}
+
+#global_name {
+   Height: 300px;
+}
+
+
